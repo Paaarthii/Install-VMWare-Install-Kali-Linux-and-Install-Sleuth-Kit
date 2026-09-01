@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name: ##Parthipan M
-### Reg No: ##212225040294
+### Name: Parthipan M
+### Reg No: 212225040294
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
